@@ -1,0 +1,8 @@
+FEDERATION_DOMAIN="pi-latamcoin.github.io"
+
+[[CURRENCIES]]
+code="LATAMCOIN"
+issuer="GCOQVGBWRBJ36TAUYLBE5R2AETKI3CQXYJEJNY6C6CMZ7C4F5GQUGMPK"
+display_decimals=7
+name="LATAMCOIN"
+image="https://frankito70.github.io/pi-latamcoin/images/latamcoin.png"
