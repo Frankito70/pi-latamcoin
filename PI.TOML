@@ -1,0 +1,37 @@
+[[CURRENCIES]]
+
+# ESTE CAMPO DEBE SER EL CÓDIGO CON EL QUE CREASTE EL TOKEN (10 CARACTERES)
+code="LATAMCOIN"
+
+# Clave pública del Emisor (el creador del token)
+issuer="GCOQVGBWRBJ36TAUYLBE5R2AETKI3CQXYJEJNY6C6CMZ7C4F5GQUGMPK"
+
+# Nombre que aparecerá en la Pi Wallet. Incluimos LAT aquí para identificación.
+name="LATAM Coin (LAT)"
+
+# Descripción que aparecerá en la Pi Wallet
+desc="La moneda digital de la Comunidad Pi para la región de Latinoamérica."
+
+# URL HTTPS del ícono de tu token (¡CORREGIDO A GITHUB PAGES Y LIMPIO!)
+image="https://frankito70.github.io/images/latamcoin_icon.png"
+
+# URL de aprendizaje (¡CORREGIDO A GITHUB PAGES Y LIMPIO!)
+url="https://frankito70.github.io/learn-more"[[CURRENCIES]]
+
+# ESTE CAMPO DEBE SER EL CÓDIGO CON EL QUE CREASTE EL TOKEN (10 CARACTERES)
+code="LATAMCOIN"
+
+# Clave pública del Emisor (el creador del token)
+issuer="GCOQVGBWRBJ36TAUYLBE5R2AETKI3CQXYJEJNY6C6CMZ7C4F5GQUGMPK"
+
+# Nombre que aparecerá en la Pi Wallet. Incluimos LAT aquí para identificación.
+name="LATAM Coin (LAT)"
+
+# Descripción que aparecerá en la Pi Wallet
+desc="La moneda digital de la Comunidad Pi para la región de Latinoamérica."
+
+# URL HTTPS del ícono de tu token (¡CORREGIDO A GITHUB PAGES Y LIMPIO!)
+image="https://frankito70.github.io/images/latamcoin_icon.png"
+
+# URL de aprendizaje (¡CORREGIDO A GITHUB PAGES Y LIMPIO!)
+url="https://frankito70.github.io/learn-more"
