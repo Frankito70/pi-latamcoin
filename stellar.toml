@@ -1,0 +1,7 @@
+echo "
+[[CURRENCIES]]
+code = \"LATAMCOIN\"
+issuer = \"GDH.......................................................................\" 
+name = \"LatamCoin\"
+desc = \"Moneda de prueba de la red Pi Testnet enfocada en la comunidad latinoamericana.\"
+image = \"https://frankito70.github.io/pi-latamcoin/images/latamcoin_icon.png\"

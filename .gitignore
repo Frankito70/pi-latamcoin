@@ -1,0 +1,13 @@
+# Archivos y directorios de Node.js y logueo que deben ser ignorados por Git
+
+# Dependencias (siempre se deben ignorar)
+/node_modules
+
+# Logs y Archivos Temporales
+npm-debug.log
+.npm/
+
+# Archivos específicos generados en el entorno de desarrollo
+/dist
+/build
+*.log
