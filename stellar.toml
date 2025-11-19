@@ -1,7 +1,21 @@
-echo "
+--- Sección de Organización ---
+
+ORG_NAME="Latamcoin"
+ORG_URL="https://www.google.com/search?q=https://latamcoin.github.io/" # Reemplazar con tu URL de GitHub Pages
+ORG_DESCRIPTION="LATAMCOIN (Pi Testnet) - Una prueba de concepto en la red Stellar."
+
+--- Sección de Activos ---
+
 [[CURRENCIES]]
-code = \"LATAMCOIN\"
-issuer = \"GDH.......................................................................\" 
-name = \"LatamCoin\"
-desc = \"Moneda de prueba de la red Pi Testnet enfocada en la comunidad latinoamericana.\"
-image = \"https://i.imgur.com/5MXJ616.png"
+code = "LATAMCOIN"
+
+Clave pública de la cuenta emisora de LATAMCOIN
+
+issuer = "GDG3GOMR6H65H6J33W54F7G67H6J42H6J63W54F7G67H6J42H6J63W54F7G67H6J42H6J63W54F7G" # ¡IMPORTANTE! Reemplaza esto con tu clave real
+
+La URL de la imagen corregida con la extensión .png
+
+IMAGE = "https://i.imgur.com/5MXJ616.png"
+
+name = "LATAMCOIN (Pi Testnet)"
+desc = "Moneda de prueba para la Pi Testnet."
