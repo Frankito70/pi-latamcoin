@@ -1,8 +1,43 @@
-FEDERATION_DOMAIN="pi-latamcoin.github.io"
+[documentation]
 
-[[CURRENCIES]]
-code="LATAMCOIN"
+URL principal donde se puede encontrar documentación sobre LATAMCOIN
+
+url="https://www.google.com/search?q=https://frankito70.github.io/pi-latamcoin/"
+
+[network]
+
+Indica si el token está en la red principal (false para Testnet)
+
+is_mainnet=false
+
+Indica si el token está en la red de prueba
+
+is_testnet=true
+
+[asset]
+
+Código del activo (3 o 4 letras)
+
+code="LAT"
+
+La cuenta emisora del token en la red de Stellar (Pi Testnet)
+
 issuer="GCOQVGBWRBJ36TAUYLBE5R2AETKI3CQXYJEJNY6C6CMZ7C4F5GQUGMPK"
-display_decimals=7
-name="LATAMCOIN"
-image="https://frankito70.github.io/pi-latamcoin/images/latamcoin.png"
+
+Estado del activo
+
+status="live"
+
+Nombre completo que se mostrará en los exploradores
+
+display_name="LATAMCOIN"
+
+Descripción del token para mostrar en los exploradores
+
+display_description="A digital currency created for the Latin American market, facilitating fast and low-cost cross-border payments within the region."
+
+URL ABSOLUTA y directa a la imagen del ícono (¡Corregida!)
+
+DEBE usar el dominio de GitHub Pages, no el de github.com
+
+image="https://www.google.com/search?q=https://frankito70.github.io/pi-latamcoin/images/latamcoin_icon.png"
