@@ -27,7 +27,7 @@ const LATAMcoin = new StellarSdk.Asset(TOKEN_CODE, EMITTER_PUBLIC_KEY);
 /**
  * Función principal para crear la Trustline y acuñar los tokens.
  */
-async function createAndMintToken() {
+async function createAndMintToken() 
     try {
         console.log(`\n--> Iniciando creación y acuñación de ${TOKEN_CODE}...`);
         console.log(`- Emisor (Issuer): ${emitterKeypair.publicKey()}`);
